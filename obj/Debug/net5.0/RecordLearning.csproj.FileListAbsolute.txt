@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\.Net\RecordLearning\bin\Debug\net5.0\RecordLearning.exe
+C:\Users\victo\source\repos\.Net\RecordLearning\bin\Debug\net5.0\RecordLearning.deps.json
+C:\Users\victo\source\repos\.Net\RecordLearning\bin\Debug\net5.0\RecordLearning.runtimeconfig.json
+C:\Users\victo\source\repos\.Net\RecordLearning\bin\Debug\net5.0\RecordLearning.runtimeconfig.dev.json
+C:\Users\victo\source\repos\.Net\RecordLearning\bin\Debug\net5.0\RecordLearning.dll
+C:\Users\victo\source\repos\.Net\RecordLearning\bin\Debug\net5.0\ref\RecordLearning.dll
+C:\Users\victo\source\repos\.Net\RecordLearning\bin\Debug\net5.0\RecordLearning.pdb
+C:\Users\victo\source\repos\.Net\RecordLearning\obj\Debug\net5.0\RecordLearning.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\.Net\RecordLearning\obj\Debug\net5.0\RecordLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\.Net\RecordLearning\obj\Debug\net5.0\RecordLearning.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\.Net\RecordLearning\obj\Debug\net5.0\RecordLearning.AssemblyInfo.cs
+C:\Users\victo\source\repos\.Net\RecordLearning\obj\Debug\net5.0\RecordLearning.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\.Net\RecordLearning\obj\Debug\net5.0\RecordLearning.dll
+C:\Users\victo\source\repos\.Net\RecordLearning\obj\Debug\net5.0\ref\RecordLearning.dll
+C:\Users\victo\source\repos\.Net\RecordLearning\obj\Debug\net5.0\RecordLearning.pdb
+C:\Users\victo\source\repos\.Net\RecordLearning\obj\Debug\net5.0\RecordLearning.genruntimeconfig.cache
